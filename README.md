@@ -1,26 +1,28 @@
-# Password Manager
+# 🔐 Password Manager
 
-A simple React Password Manager application that allows users to securely store and manage their passwords.
+A simple React Password Manager to securely store and manage your passwords.
 
-## Features
+## ✨ Features
 
-- Add new passwords
-- Delete passwords
-- Search passwords by website
-- Show/Hide passwords
-- Passwords are saved using **Local Storage**, so they remain available after refreshing the page
+- ➕ Add new passwords
+- 🗑️ Delete passwords
+- 🔍 Search passwords by website
+- 👁️ Show/Hide passwords
+- 💾 Passwords are saved in **Local Storage** and remain available after refreshing the page
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- React
-- JavaScript
-- CSS
-- UUID
-- Local Storage
+- ⚛️ React
+- 📜 JavaScript
+- 🎨 CSS
+- 🆔 UUID
+- 💾 Local Storage
 
-## Run Locally
+## 🚀 Run Locally
 
 ```bash
 npm install
 npm start
 ```
+
+Enjoy building! 😊
