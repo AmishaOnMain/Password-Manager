@@ -1,0 +1,171 @@
+/* Main Container */
+.password-manager-container {
+  background: linear-gradient(to right, #9ba9eb, #c3caea);
+  min-height: 100vh;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Top Section */
+.top-section {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Logo */
+.app-logo {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+/* Add Password Section */
+.add-password-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #5763a5;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+.form {
+  width: 50%;
+}
+
+.heading {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+/* Input Containers */
+.input-container {
+  display: flex;
+  align-items: center;
+  background-color: #f8fafc;
+  margin-bottom: 15px;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.input-container img {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.input-container input {
+  border: none;
+  outline: none;
+  width: 100%;
+  background: transparent;
+  color: black;
+}
+
+/* Add Button */
+.add-button {
+  background-color: #0b69ff;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-button:hover {
+  background-color: #0952cc;
+}
+
+/* Side Image */
+.manager-image {
+  width: 40%;
+}
+
+/* Passwords Section */
+.passwords-section {
+  max-width: 900px;
+  margin: 20px auto;
+  background-color: #5763a5;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+/* Header */
+.passwords-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.passwords-heading {
+  font-size: 20px;
+}
+
+.passwords-count {
+  background-color: transparent;
+  border: 1px solid #f8fafc;
+  border-radius: 10px;
+  padding: 2px 10px;
+  margin-left: 10px;
+}
+
+.passwords-count-container {
+  display: flex;
+  align-items: center;
+}
+
+/* Search */
+.search-container {
+  display: flex;
+  align-items: center;
+  background-color: #f8fafc;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.search-container img {
+  width: 20px;
+  margin-right: 5px;
+}
+
+.search-container input {
+  border: none;
+  outline: none;
+  background: transparent;
+  color: black;
+}
+
+/* Show Password Checkbox */
+.show-password-container {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.show-password-container label {
+  margin-left: 8px;
+}
+
+/* Password List */
+.passwords-list {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+/* No Passwords */
+.no-passwords-container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.no-passwords-image {
+  width: 200px;
+}
+
+.no-passwords-text {
+  margin-top: 10px;
+}
