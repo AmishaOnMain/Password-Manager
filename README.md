@@ -5,6 +5,10 @@ A simple React Password Manager to securely store and manage your passwords.
 <p align="center">
   <img src="https://assets.ccbp.in/frontend/content/react-js/passowrd-manager-output-v0.gif" alt="Password Manager Demo" width="500">
 </p>
+---
+## 🔥 Live Preview
+👉 https://passdock.netlify.app/
+---
 
 ## ✨ Features
 
